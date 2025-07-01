@@ -13,15 +13,16 @@
    - `MailKit.dll`
    - `MimeKit.dll`
 
-You can download the packages using NuGet:
-
-https://www.nuget.org/packages/MailKit/
-
 2. Update the script with the correct paths to the DLLs.
 
 3. Ensure the following permissions are granted to your Azure AD app:
    - `SMTP.Send` (Application permission)
    - `Mail.Send` (if using Graph API)
+
+**Note**:You can download the packages using NuGet:
+
+https://www.nuget.org/packages/MailKit/
+
 
 ## ⚙️ Required Configuration
 
