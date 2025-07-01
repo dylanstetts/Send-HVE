@@ -19,7 +19,7 @@
    - `SMTP.Send` (Application permission)
    - `Mail.Send` (if using Graph API)
 
-**Note**:You can download the packages using NuGet:
+**Note**: You can download the packages using NuGet:
 
 https://www.nuget.org/packages/MailKit/
 
